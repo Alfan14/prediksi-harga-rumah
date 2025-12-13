@@ -1,0 +1,9 @@
+matplotlib==3.10.7
+pandas==2.3.1
+scikit-fuzzy==0.5.0
+scikit-learn==1.7.1
+scipy==1.16.1
+selenium==4.38.0
+streamlit==1.52.1
+uvicorn==0.35.0
+virtualenv==20.34.0
