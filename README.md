@@ -1,7 +1,7 @@
 # Sistem Prediksi Harga Rumah
 
 > Tugas Akhir – Teknik Informatika 
-> Prediksi harga rumah secara cerdas dengan pendekatan Fuzzy Logic (Sistem Inferensi Fuzzy Mamdani/Takagi-Sugeno) menggunakan Python dan Flask.
+> Prediksi harga rumah secara cerdas dengan pendekatan Fuzzy Logic (Sistem Inferensi Fuzzy Mamdani/Takagi-Sugeno) menggunakan Python dan Streamlit.
 
 ## 📖 Deskripsi Proyek
 Proyek ini merupakan sistem prediksi harga rumah berbasis web yang meman Fuzzy Logic sebagai metode utama untuk menangani ketidakpastian dan variabel linguistik dalam data properti.  
@@ -9,7 +9,7 @@ Berbeda dengan model regresi linier biasa, Fuzzy Logic memungkinkan kita memodel
 
 Sistem ini dibangun menggunakan:
 - Backend: Python 3.9+
-- Framework Web: Flask
+- Framework Web: Streamlit
 - Fuzzy Logic: library `scikit-fuzzy` (skfuzzy)
 - Frontend: HTML, CSS (Bootstrap 5), JavaScript
 - Database: PostgreSQL
